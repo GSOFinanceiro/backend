@@ -1,0 +1,1 @@
+# GSOFinanceiro API
